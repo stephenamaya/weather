@@ -1,4 +1,4 @@
-# Lesters Garden Bistro
+# React weather API app
 
 ![alt text](./images/lester-read.jpg) 
 
