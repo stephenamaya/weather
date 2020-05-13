@@ -8,8 +8,12 @@ This app was created for a final project in DIG 4503, a Rapid Application class 
 
 To test the app, go to [Weather app live](https://stephenamaya.github.io/weather/). 
 From there, you have two fields to submit the form
+
 **1: City Name** 
-the first is the City name. The city name can be anything across the globe. The second form field is the country code, for anything in the United states use US. Follow the same structure internationaly, ex: Argentina: AR, Switzerland: CH.
+For the City Name, you can use anything across the globe. Most cities with an active population should will register. 
+
+**2: Country Code** 
+The second form field is the country code, for anything in the United states use US. Follow the same structure internationaly, ex: Argentina: AR, Switzerland: CH.
 
 # Special Thanks
 
