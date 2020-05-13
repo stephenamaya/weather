@@ -1,6 +1,6 @@
 # Weather API in react
 
-This app was created for a final project in DIG 4503, a Rapid Application class in my senior year at UCF. This project uses react , and the [Open Weather Map API](https://openweathermap.org/api)
+This app was created for a final project in DIG 4503, a Rapid Application class in my senior year at UCF. This project uses [React](https://reactjs.org/), and the [Open Weather Map API](https://openweathermap.org/api)
 
 
 
