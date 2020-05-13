@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto:wght@300;400&display=swap');
+
+body{
+
+  background-color: rgb(235, 143, 143);
+    background: -webkit-linear-gradient(to left, #FFB88C, #DE6262);
+    background: linear-gradient(to left, #FFB88C, #DE6262);  
+    padding-top: 50px;
+}
+
+.container{
+    background-color: rgba(255, 255, 255, 0.178);
+    width: 700px;
+    height: 600px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 30px;
+    box-shadow:   10px 15px 30px 0  rgba(0, 0, 0, 0.247);
+    font-family: roboto;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.title{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    font-weight: lighter;
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-family: 'Pacifico', cursive;
+}
+
+input[type=text] {
+    background-color: rgba(255, 255, 255, 0);
+    width: 100%;
+    padding: 12px 20px;
+    margin: 5px 0px;
+    box-sizing: border-box;
+    border: 3px solid rgb(233, 233, 233);
+    border-radius: 15px;
+    -webkit-transition: 0.5s;
+    transition: 0.3s;
+    outline: none;
+  }
+
+  input[type=text]:focus {
+    border: 3px solid rgb(245, 116, 116);
+  }
+
+  input::placeholder {
+    color: rgb(66, 66, 66);
+    font-size: 14px;
+  }
+  label, input {
+    font-family: roboto;
+    font-size: 14px;
+
+  }
+
+  .formcontainer{
+      width: 500px;
+      margin: auto;
+  
+  }
+
+  .button{
+    background-color: rgb(189, 121, 121);
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    text-align: center;
+    text-decoration: none;
+    font-family: roboto;
+    font-size: 16px;
+    margin: 15px 190px;
+    border-radius: 10px;
+    transition: 0.2s;
+  }
+
+  .button:hover{
+    background-color: rgb(62, 167, 153);
+  }
+
+  .resultcontainer{
+    width: 500px;
+    margin: auto;
+    color: white;
+
+  }
+
+  .row {
+    display: flex;
+  }
+  
+  /* Create two equal columns that sits next to each other */
+  .column {
+    flex: 50%;
+
+  }
+
+  .error{
+      color: rgb(214, 98, 98);
+  }
