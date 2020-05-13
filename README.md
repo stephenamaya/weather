@@ -1,8 +1,6 @@
 # React weather API app
 
-![alt text](./images/lester-read.jpg) 
-
-Here we have our main man, lester. Lester is a goose, albeit a strange crooked goose, but a goose. We family members find it humurous that he lives in the side of the house, in an area named "Lesters Garden Bistro". This project is a serious and sarcastic at the same time. This static site is vanilla HTML and CSS, my favorite. Minimal external resources, Maximal speed. The live pages link is here:
+This project was the final assigment for DIG 4503, Rapid Application class. The app uses the openweathermap api. It allows 60 
 * [Live! Lesters Garden Bistro](https://stephenamaya.github.io/lesters-garden-bistro/)
 
 
