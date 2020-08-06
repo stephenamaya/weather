@@ -7,8 +7,8 @@ import styles from "./main.module.css"
 const Form = (props) => (
   <div className={styles.formcontainer}>
   <form onSubmit={props.getWeather}>
+  <input type="text" name="country" placeholder="Country Code, ex: US" />
     <input type="text" name="city" placeholder="City Name, ex: Miami" />
-    <input type="text" name="country" placeholder="Country Code, ex: US" />
     <button className={styles.button}>Get Weather</button>
   </form>
   </div>
